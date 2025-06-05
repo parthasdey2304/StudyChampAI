@@ -49,8 +49,10 @@
 ---
 
 ## 📲 Screenshots
+<img src="https://github.com/user-attachments/assets/ee99c048-ad40-4256-b4fb-8f7e7c390b87" alt="WhatsApp Image 2025-06-05 at 23 55 44_775aeea5" width="250"/>
+<img src="https://github.com/user-attachments/assets/cd655e46-6e25-453c-a4b3-f8198b6c0fbd" alt="WhatsApp Image 2025-06-05 at 23 55 44_5c4f7b81" width="250"/>
 
-> _(Add actual screenshots or GIFs here of the app interface)_
+<br>
 
 ---
 
